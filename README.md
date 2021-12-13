@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tran Thanh Xuan
-- 👀 I’m interested in C#, JS, Python - 
-- 🌱 I’m currently learning JS, PYthon
+- 👀 I’m interested in C#, JS 
 - 💞️ I’m looking to collaborate on web full stack, windows application, mobile dev
 - 📫 How to reach me :
 + facebook: fb/tranthanhxuan123
