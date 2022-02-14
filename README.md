@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tran Thanh Xuan
-- Birthday: 1/1/1995
-- Hometown: Tra Vinh
 - 👀 I’m interested in C#, JS 
 - 💞️ I’m looking to collaborate on web full stack, windows application, mobile dev
 - 📫 How to reach me :
