@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Tran Thanh Xuan
-- 👀 I’m interested in C#, JS 
-- 💞️ I’m looking to collaborate on web full stack, windows application, mobile dev
-- 📫 How to reach me :
-+ facebook: fb/tranthanhxuan123
-+ gmail: ttxuan0595@gmail.com
+- Hi, I’m Tran Thanh Xuan
+- My skills:  HTML, CSS, C# (ASP dotnet core), JS (nodejs, expressJS, ReactJS), SQL (SQL server), No-SQL (MongoDB)
+- I’m looking to collaborate on web full stack, windows application, mobile dev
+- How to reach me :
+  + facebook: [fb/tranthanhxuan123](https://www.facebook.com/tranthanhxuan123/)
+  + gmail: ttxuan0595@gmail.com
 ### Some of my repos
 + Bot discord with Discord.js: https://github.com/Avocado0595/bot-bo-sua
 + Git tutorial: https://github.com/Avocado0595/git-tutorial
