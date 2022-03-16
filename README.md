@@ -11,6 +11,7 @@
 + Photo web with ReactJS: https://github.com/Avocado0595/photo-app
 + Clone client Spotify with HTML and CSS: https://github.com/Avocado0595/MySpotify
 + Demo basic with ReactJS: https://github.com/Avocado0595/sosanhlienphong
+[![ThanhXuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avocado0595)](https://github.com/avocado0595/github-readme-stats)
 <!---
 Avocado0595/Avocado0595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
