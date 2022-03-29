@@ -4,6 +4,8 @@
 - How to reach me :
   + facebook: [fb/tranthanhxuan123](https://www.facebook.com/tranthanhxuan123/)
   + gmail: ttxuan0595@gmail.com
+  + discord server: [hoctap](https://discord.gg/QN7YCMEcMU)
+  + youtube: [JS basic](https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I)
 ### Some of my repos
 + Bot discord with Discord.js: https://github.com/Avocado0595/bot-bo-sua
 + Git tutorial: https://github.com/Avocado0595/git-tutorial
