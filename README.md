@@ -7,12 +7,13 @@
   + discord server: [hoctap](https://discord.gg/QN7YCMEcMU)
   + youtube: [JS basic](https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I)
 ### Some of my repos
-+ Bot discord with Discord.js: https://github.com/Avocado0595/bot-bo-sua
 + Git tutorial: https://github.com/Avocado0595/git-tutorial
-+ Demo api with C#: https://github.com/Avocado0595/API-CSharp-dotnet-core
++ Bot discord with Discord.js: https://github.com/Avocado0595/bot-bo-sua
++ Photo API: https://github.com/Avocado0595/photoURL.api
 + Photo web with ReactJS: https://github.com/Avocado0595/photo-app
-+ Clone client Spotify with HTML and CSS: https://github.com/Avocado0595/MySpotify
-+ Demo basic with ReactJS: https://github.com/Avocado0595/sosanhlienphong
++ Demo basic with ReactJS: https://github.com/Avocado0595/clothshop-reactTS
++ Task management API: https://github.com/Avocado0595/photoURL.api
++ Demo api with C#: https://github.com/Avocado0595/API-CSharp-dotnet-core
 [![ThanhXuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avocado0595)](https://github.com/avocado0595/github-readme-stats)
 <!---
 Avocado0595/Avocado0595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
