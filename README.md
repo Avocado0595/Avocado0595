@@ -21,4 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 My learning path:
 
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/56567195/179879572-4fdbaf46-d21f-44f5-9ba5-e6ffbab07ac6.svg)
+![image](https://user-images.githubusercontent.com/56567195/179879911-0ade383a-8440-4478-9e3f-8a461e9fbae5.png)
+
