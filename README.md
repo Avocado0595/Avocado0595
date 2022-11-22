@@ -2,9 +2,7 @@
 - My skills:  HTML, CSS, C# (ASP dotnet core), JS (nodejs, expressJS, ReactJS), SQL (SQL server), No-SQL (MongoDB)
 - I’m looking to collaborate on web full stack, windows application, mobile dev
 - How to reach me :
-  + facebook: [fb/tranthanhxuan123](https://www.facebook.com/tranthanhxuan123/)
   + gmail: ttxuan0595@gmail.com
-  + discord server: [hoctap](https://discord.gg/QN7YCMEcMU)
   + youtube: [JS basic](https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I)
 ### Some of my repos
 + Git tutorial: https://github.com/Avocado0595/git-tutorial
